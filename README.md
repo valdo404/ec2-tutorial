@@ -1,4 +1,4 @@
-ec2-tutorial
-============
+To start:
 
-EC2 cli for dummies
+sh download.sh
+. configure.sh 
